@@ -1,0 +1,150 @@
+{
+  "lesson": 2,
+  "items": [
+    {
+      "kana": "これ",
+      "kanji": "",
+      "vietnamese": "cái này, đây; vật ở gần người nói"
+    },
+    {
+      "kana": "それ",
+      "kanji": "",
+      "vietnamese": "cái đó, đó; vật ở gần người nghe"
+    },
+    {
+      "kana": "あれ",
+      "kanji": "",
+      "vietnamese": "cái kia, kia; vật ở xa cả người nói và người nghe"
+    },
+    {
+      "kana": "この",
+      "kanji": "",
+      "vietnamese": "~ này"
+    },
+    {
+      "kana": "その",
+      "kanji": "",
+      "vietnamese": "~ đó"
+    },
+    {
+      "kana": "あの",
+      "kanji": "",
+      "vietnamese": "~ kia"
+    },
+    {
+      "kana": "ほん",
+      "kanji": "本",
+      "vietnamese": "sách"
+    },
+    {
+      "kana": "じしょ",
+      "kanji": "辞書",
+      "vietnamese": "từ điển"
+    },
+    {
+      "kana": "ざっし",
+      "kanji": "雑誌",
+      "vietnamese": "tạp chí"
+    },
+    {
+      "kana": "しんぶん",
+      "kanji": "新聞",
+      "vietnamese": "báo"
+    },
+    {
+      "kana": "ノート",
+      "kanji": "",
+      "vietnamese": "vở"
+    },
+    {
+      "kana": "てちょう",
+      "kanji": "手帳",
+      "vietnamese": "sổ tay"
+    },
+    {
+      "kana": "めいし",
+      "kanji": "名刺",
+      "vietnamese": "danh thiếp"
+    },
+    {
+      "kana": "カード",
+      "kanji": "",
+      "vietnamese": "thẻ, cạc"
+    },
+    {
+      "kana": "テレホンカード",
+      "kanji": "",
+      "vietnamese": "thẻ điện thoại"
+    },
+    {
+      "kana": "えんぴつ",
+      "kanji": "鉛筆",
+      "vietnamese": "bút chì"
+    },
+    {
+      "kana": "ボールペン",
+      "kanji": "",
+      "vietnamese": "bút bi"
+    },
+    {
+      "kana": "シャープペンシル",
+      "kanji": "",
+      "vietnamese": "bút chì kim, bút chì bấm"
+    },
+    {
+      "kana": "かぎ",
+      "kanji": "",
+      "vietnamese": "chìa khóa"
+    },
+    {
+      "kana": "とけい",
+      "kanji": "時計",
+      "vietnamese": "đồng hồ"
+    },
+    {
+      "kana": "かさ",
+      "kanji": "傘",
+      "vietnamese": "ô, dù"
+    },
+    {
+      "kana": "かばん",
+      "kanji": "",
+      "vietnamese": "cặp sách, túi sách"
+    },
+    {
+      "kana": "カセットテープ",
+      "kanji": "",
+      "vietnamese": "băng cát-sét"
+    },
+    {
+      "kana": "テープレコーダー",
+      "kanji": "",
+      "vietnamese": "máy ghi âm"
+    },
+    {
+      "kana": "テレビ",
+      "kanji": "",
+      "vietnamese": "tivi"
+    },
+    {
+      "kana": "ラジオ",
+      "kanji": "",
+      "vietnamese": "radio"
+    },
+    {
+      "kana": "カメラ",
+      "kanji": "",
+      "vietnamese": "máy ảnh"
+    },
+    {
+      "kana": "コンピューター",
+      "kanji": "",
+      "vietnamese": "máy vi tính"
+    },
+    {
+      "kana": "じどうしゃ",
+      "kanji": "自動車",
+      "vietnamese": "ô tô, xe hơi"
+    }
+  ]
+}

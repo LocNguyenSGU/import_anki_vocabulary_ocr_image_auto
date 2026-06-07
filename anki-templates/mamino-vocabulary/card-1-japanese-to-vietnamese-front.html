@@ -1,0 +1,12 @@
+<div class="mamino-card">
+  <div class="audio">{{Audio}}</div>
+
+  {{#Kanji}}
+  <div class="japanese">{{Kanji}}</div>
+  <div class="kana">{{Kana}}</div>
+  {{/Kanji}}
+
+  {{^Kanji}}
+  <div class="japanese">{{Kana}}</div>
+  {{/Kanji}}
+</div>

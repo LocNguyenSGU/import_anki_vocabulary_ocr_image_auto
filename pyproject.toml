@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mamino-anki"
+version = "0.1.0"
+description = "Build Mamino vocabulary CSV, audio, and run history for Anki"
+requires-python = ">=3.12"
+dependencies = [
+  "edge-tts>=7.2,<8"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.2,<9"
+]
+
+[project.scripts]
+mamino-anki = "mamino_anki.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

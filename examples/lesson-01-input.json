@@ -1,0 +1,20 @@
+{
+  "lesson": 1,
+  "items": [
+    {
+      "kana": "わたし",
+      "kanji": "私",
+      "vietnamese": "tôi"
+    },
+    {
+      "kana": "あなた",
+      "kanji": "",
+      "vietnamese": "bạn"
+    },
+    {
+      "kana": "せんせい",
+      "kanji": "先生",
+      "vietnamese": "giáo viên"
+    }
+  ]
+}

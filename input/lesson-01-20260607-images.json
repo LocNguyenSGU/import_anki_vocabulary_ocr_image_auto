@@ -1,0 +1,545 @@
+{
+  "lesson": 1,
+  "items": [
+    {
+      "kana": "わたし",
+      "kanji": "私",
+      "vietnamese": "tôi"
+    },
+    {
+      "kana": "わたしたち",
+      "kanji": "",
+      "vietnamese": "chúng tôi, chúng ta"
+    },
+    {
+      "kana": "あなた",
+      "kanji": "",
+      "vietnamese": "anh/chị, ông/bà, bạn"
+    },
+    {
+      "kana": "あのひと",
+      "kanji": "あの人",
+      "vietnamese": "người kia, người đó"
+    },
+    {
+      "kana": "あのかた",
+      "kanji": "あの方",
+      "vietnamese": "người kia, người đó (cách nói lịch sự)"
+    },
+    {
+      "kana": "みなさん",
+      "kanji": "皆さん",
+      "vietnamese": "các anh chị, các ông bà, các bạn, quý vị"
+    },
+    {
+      "kana": "さん",
+      "kanji": "",
+      "vietnamese": "anh, chị, ông, bà; hậu tố gọi lịch sự"
+    },
+    {
+      "kana": "ちゃん",
+      "kanji": "",
+      "vietnamese": "hậu tố thân mật dùng sau tên trẻ em"
+    },
+    {
+      "kana": "くん",
+      "kanji": "君",
+      "vietnamese": "hậu tố dùng sau tên em trai hoặc nam giới trẻ"
+    },
+    {
+      "kana": "じん",
+      "kanji": "人",
+      "vietnamese": "người nước ~"
+    },
+    {
+      "kana": "せんせい",
+      "kanji": "先生",
+      "vietnamese": "thầy/cô"
+    },
+    {
+      "kana": "きょうし",
+      "kanji": "教師",
+      "vietnamese": "giáo viên"
+    },
+    {
+      "kana": "がくせい",
+      "kanji": "学生",
+      "vietnamese": "học sinh, sinh viên"
+    },
+    {
+      "kana": "かいしゃいん",
+      "kanji": "会社員",
+      "vietnamese": "nhân viên công ty"
+    },
+    {
+      "kana": "しゃいん",
+      "kanji": "社員",
+      "vietnamese": "nhân viên công ty; dùng kèm tên công ty"
+    },
+    {
+      "kana": "ぎんこういん",
+      "kanji": "銀行員",
+      "vietnamese": "nhân viên ngân hàng"
+    },
+    {
+      "kana": "いしゃ",
+      "kanji": "医者",
+      "vietnamese": "bác sĩ"
+    },
+    {
+      "kana": "けんきゅうしゃ",
+      "kanji": "研究者",
+      "vietnamese": "nhà nghiên cứu"
+    },
+    {
+      "kana": "エンジニア",
+      "kanji": "",
+      "vietnamese": "kỹ sư"
+    },
+    {
+      "kana": "だいがく",
+      "kanji": "大学",
+      "vietnamese": "đại học, trường đại học"
+    },
+    {
+      "kana": "びょういん",
+      "kanji": "病院",
+      "vietnamese": "bệnh viện"
+    },
+    {
+      "kana": "でんき",
+      "kanji": "電気",
+      "vietnamese": "điện, đèn điện"
+    },
+    {
+      "kana": "だれ",
+      "kanji": "",
+      "vietnamese": "ai"
+    },
+    {
+      "kana": "どなた",
+      "kanji": "",
+      "vietnamese": "ai; cách nói lịch sự của だれ"
+    },
+    {
+      "kana": "さい",
+      "kanji": "歳",
+      "vietnamese": "tuổi"
+    },
+    {
+      "kana": "なんさい",
+      "kanji": "何歳",
+      "vietnamese": "mấy tuổi, bao nhiêu tuổi"
+    },
+    {
+      "kana": "おいくつ",
+      "kanji": "",
+      "vietnamese": "mấy tuổi, bao nhiêu tuổi; cách nói lịch sự"
+    },
+    {
+      "kana": "はい",
+      "kanji": "",
+      "vietnamese": "vâng, dạ"
+    },
+    {
+      "kana": "いいえ",
+      "kanji": "",
+      "vietnamese": "không"
+    },
+    {
+      "kana": "しつれいですが",
+      "kanji": "失礼ですが",
+      "vietnamese": "xin lỗi,..."
+    },
+    {
+      "kana": "おなまえは？",
+      "kanji": "お名前は？",
+      "vietnamese": "Tên anh/chị là gì?"
+    },
+    {
+      "kana": "はじめまして",
+      "kanji": "初めまして",
+      "vietnamese": "Rất hân hạnh được gặp anh/chị"
+    },
+    {
+      "kana": "どうぞよろしくおねがいします",
+      "kanji": "どうぞよろしくお願いします",
+      "vietnamese": "Rất mong được sự giúp đỡ của anh/chị; rất vui được làm quen"
+    },
+    {
+      "kana": "こちらは～さんです",
+      "kanji": "",
+      "vietnamese": "Đây là anh/chị/ông/bà ~"
+    },
+    {
+      "kana": "～からきました",
+      "kanji": "～から来ました",
+      "vietnamese": "(Tôi) đến từ ~"
+    },
+    {
+      "kana": "アメリカ",
+      "kanji": "",
+      "vietnamese": "Mỹ"
+    },
+    {
+      "kana": "イギリス",
+      "kanji": "",
+      "vietnamese": "Anh"
+    },
+    {
+      "kana": "インド",
+      "kanji": "",
+      "vietnamese": "Ấn Độ"
+    },
+    {
+      "kana": "インドネシア",
+      "kanji": "",
+      "vietnamese": "Indonesia"
+    },
+    {
+      "kana": "かんこく",
+      "kanji": "韓国",
+      "vietnamese": "Hàn Quốc"
+    },
+    {
+      "kana": "タイ",
+      "kanji": "",
+      "vietnamese": "Thái Lan"
+    },
+    {
+      "kana": "ちゅうごく",
+      "kanji": "中国",
+      "vietnamese": "Trung Quốc"
+    },
+    {
+      "kana": "ドイツ",
+      "kanji": "",
+      "vietnamese": "Đức"
+    },
+    {
+      "kana": "にほん",
+      "kanji": "日本",
+      "vietnamese": "Nhật Bản"
+    },
+    {
+      "kana": "フランス",
+      "kanji": "",
+      "vietnamese": "Pháp"
+    },
+    {
+      "kana": "ブラジル",
+      "kanji": "",
+      "vietnamese": "Braxin"
+    },
+    {
+      "kana": "さくらだいがく／ふじだいがく",
+      "kanji": "さくら大学／富士大学",
+      "vietnamese": "tên các trường đại học giả tưởng"
+    },
+    {
+      "kana": "IMC／パワーでんき／ブラジルエアー",
+      "kanji": "IMC／パワー電気／ブラジルエアー",
+      "vietnamese": "tên các công ty giả tưởng"
+    },
+    {
+      "kana": "AKC",
+      "kanji": "",
+      "vietnamese": "tên một tổ chức giả tưởng"
+    },
+    {
+      "kana": "こうべびょういん",
+      "kanji": "神戸病院",
+      "vietnamese": "tên một bệnh viện giả tưởng"
+    },
+    {
+      "kana": "くに",
+      "kanji": "国",
+      "vietnamese": "nước"
+    },
+    {
+      "kana": "ひと",
+      "kanji": "人",
+      "vietnamese": "người"
+    },
+    {
+      "kana": "ことば",
+      "kanji": "",
+      "vietnamese": "ngôn ngữ, lời nói"
+    },
+    {
+      "kana": "イタリア",
+      "kanji": "",
+      "vietnamese": "Ý"
+    },
+    {
+      "kana": "イラン",
+      "kanji": "",
+      "vietnamese": "Iran"
+    },
+    {
+      "kana": "エジプト",
+      "kanji": "",
+      "vietnamese": "Ai Cập"
+    },
+    {
+      "kana": "オーストラリア",
+      "kanji": "",
+      "vietnamese": "Úc"
+    },
+    {
+      "kana": "カナダ",
+      "kanji": "",
+      "vietnamese": "Canada"
+    },
+    {
+      "kana": "サウジアラビア",
+      "kanji": "",
+      "vietnamese": "Ả-rập Xê-út"
+    },
+    {
+      "kana": "シンガポール",
+      "kanji": "",
+      "vietnamese": "Singapore"
+    },
+    {
+      "kana": "スペイン",
+      "kanji": "",
+      "vietnamese": "Tây Ban Nha"
+    },
+    {
+      "kana": "フィリピン",
+      "kanji": "",
+      "vietnamese": "Philippine"
+    },
+    {
+      "kana": "ベトナム",
+      "kanji": "",
+      "vietnamese": "Việt Nam"
+    },
+    {
+      "kana": "マレーシア",
+      "kanji": "",
+      "vietnamese": "Malaysia"
+    },
+    {
+      "kana": "メキシコ",
+      "kanji": "",
+      "vietnamese": "Mexico"
+    },
+    {
+      "kana": "ロシア",
+      "kanji": "",
+      "vietnamese": "Nga"
+    },
+    {
+      "kana": "アメリカじん",
+      "kanji": "アメリカ人",
+      "vietnamese": "người Mỹ"
+    },
+    {
+      "kana": "イギリスじん",
+      "kanji": "イギリス人",
+      "vietnamese": "người Anh"
+    },
+    {
+      "kana": "イタリアじん",
+      "kanji": "イタリア人",
+      "vietnamese": "người Ý"
+    },
+    {
+      "kana": "イランじん",
+      "kanji": "イラン人",
+      "vietnamese": "người Iran"
+    },
+    {
+      "kana": "インドじん",
+      "kanji": "インド人",
+      "vietnamese": "người Ấn Độ"
+    },
+    {
+      "kana": "インドネシアじん",
+      "kanji": "インドネシア人",
+      "vietnamese": "người Indonesia"
+    },
+    {
+      "kana": "エジプトじん",
+      "kanji": "エジプト人",
+      "vietnamese": "người Ai Cập"
+    },
+    {
+      "kana": "オーストラリアじん",
+      "kanji": "オーストラリア人",
+      "vietnamese": "người Úc"
+    },
+    {
+      "kana": "カナダじん",
+      "kanji": "カナダ人",
+      "vietnamese": "người Canada"
+    },
+    {
+      "kana": "かんこくじん",
+      "kanji": "韓国人",
+      "vietnamese": "người Hàn Quốc"
+    },
+    {
+      "kana": "サウジアラビアじん",
+      "kanji": "サウジアラビア人",
+      "vietnamese": "người Ả-rập Xê-út"
+    },
+    {
+      "kana": "シンガポールじん",
+      "kanji": "シンガポール人",
+      "vietnamese": "người Singapore"
+    },
+    {
+      "kana": "スペインじん",
+      "kanji": "スペイン人",
+      "vietnamese": "người Tây Ban Nha"
+    },
+    {
+      "kana": "タイじん",
+      "kanji": "タイ人",
+      "vietnamese": "người Thái"
+    },
+    {
+      "kana": "ちゅうごくじん",
+      "kanji": "中国人",
+      "vietnamese": "người Trung Quốc"
+    },
+    {
+      "kana": "ドイツじん",
+      "kanji": "ドイツ人",
+      "vietnamese": "người Đức"
+    },
+    {
+      "kana": "にほんじん",
+      "kanji": "日本人",
+      "vietnamese": "người Nhật"
+    },
+    {
+      "kana": "フランスじん",
+      "kanji": "フランス人",
+      "vietnamese": "người Pháp"
+    },
+    {
+      "kana": "フィリピンじん",
+      "kanji": "フィリピン人",
+      "vietnamese": "người Philippine"
+    },
+    {
+      "kana": "ブラジルじん",
+      "kanji": "ブラジル人",
+      "vietnamese": "người Braxin"
+    },
+    {
+      "kana": "ベトナムじん",
+      "kanji": "ベトナム人",
+      "vietnamese": "người Việt Nam"
+    },
+    {
+      "kana": "マレーシアじん",
+      "kanji": "マレーシア人",
+      "vietnamese": "người Malaysia"
+    },
+    {
+      "kana": "メキシコじん",
+      "kanji": "メキシコ人",
+      "vietnamese": "người Mexico"
+    },
+    {
+      "kana": "ロシアじん",
+      "kanji": "ロシア人",
+      "vietnamese": "người Nga"
+    },
+    {
+      "kana": "えいご",
+      "kanji": "英語",
+      "vietnamese": "tiếng Anh"
+    },
+    {
+      "kana": "イタリアご",
+      "kanji": "イタリア語",
+      "vietnamese": "tiếng Ý"
+    },
+    {
+      "kana": "ペルシャご",
+      "kanji": "ペルシャ語",
+      "vietnamese": "tiếng Ba Tư"
+    },
+    {
+      "kana": "ヒンディーご",
+      "kanji": "ヒンディー語",
+      "vietnamese": "tiếng Hin-đi"
+    },
+    {
+      "kana": "インドネシアご",
+      "kanji": "インドネシア語",
+      "vietnamese": "tiếng Indonesia"
+    },
+    {
+      "kana": "アラビアご",
+      "kanji": "アラビア語",
+      "vietnamese": "tiếng Ả-rập"
+    },
+    {
+      "kana": "フランスご",
+      "kanji": "フランス語",
+      "vietnamese": "tiếng Pháp"
+    },
+    {
+      "kana": "かんこくご",
+      "kanji": "韓国語",
+      "vietnamese": "tiếng Hàn Quốc"
+    },
+    {
+      "kana": "スペインご",
+      "kanji": "スペイン語",
+      "vietnamese": "tiếng Tây Ban Nha"
+    },
+    {
+      "kana": "タイご",
+      "kanji": "タイ語",
+      "vietnamese": "tiếng Thái"
+    },
+    {
+      "kana": "ちゅうごくご",
+      "kanji": "中国語",
+      "vietnamese": "tiếng Trung Quốc"
+    },
+    {
+      "kana": "ドイツご",
+      "kanji": "ドイツ語",
+      "vietnamese": "tiếng Đức"
+    },
+    {
+      "kana": "にほんご",
+      "kanji": "日本語",
+      "vietnamese": "tiếng Nhật"
+    },
+    {
+      "kana": "フィリピンご",
+      "kanji": "フィリピン語",
+      "vietnamese": "tiếng Philippine"
+    },
+    {
+      "kana": "ポルトガルご",
+      "kanji": "ポルトガル語",
+      "vietnamese": "tiếng Bồ Đào Nha"
+    },
+    {
+      "kana": "ベトナムご",
+      "kanji": "ベトナム語",
+      "vietnamese": "tiếng Việt"
+    },
+    {
+      "kana": "マレーシアご",
+      "kanji": "マレーシア語",
+      "vietnamese": "tiếng Mã Lai"
+    },
+    {
+      "kana": "ロシアご",
+      "kanji": "ロシア語",
+      "vietnamese": "tiếng Nga"
+    }
+  ]
+}
