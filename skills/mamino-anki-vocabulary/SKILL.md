@@ -11,25 +11,26 @@ Use this workflow when the user sends one or more screenshots of Mamino vocabula
 
 1. Confirm the lesson number if the user did not provide it.
 2. Read the image manually from chat context.
-3. Extract each vocabulary row into `kana`, `kanji`, and `vietnamese`.
-4. Ask the user before writing rows with unclear kana, kanji, or Vietnamese meaning.
-5. Create an input JSON file under `input/lesson-XX-YYYYMMDD-HHMMSS.json`.
-6. Run:
+3. Extract **vocabulary rows** (section "I. Từ vựng") into `kana`, `kanji`, and `vietnamese`.
+4. Extract **conversation rows** (section "会話" or "【会話】") into `kana`, `kanji`, and `vietnamese`.
+5. Ask the user before writing rows with unclear kana, kanji, or Vietnamese meaning.
+6. Create an input JSON file under `input/lesson-XX-YYYYMMDD-HHMMSS.json`.
+7. Run build:
 
 ```bash
-rtk mamino-anki build --input input/lesson-XX-YYYYMMDD-HHMMSS.json
+python3 -c "from mamino_anki.cli import main; main()" build --input input/lesson-XX-YYYYMMDD-HHMMSS.json
 ```
 
-7. If audio generation needs to be skipped during testing, run:
+8. Run import to Anki:
 
 ```bash
-rtk mamino-anki build --input input/lesson-XX-YYYYMMDD-HHMMSS.json --fake-audio
+python3 -c "from mamino_anki.cli import main; main()" import-anki --csv csv/lesson-XX.csv --audio-dir audio/lesson-XX
 ```
 
-8. Report changed files:
-   - `csv/lesson-XX.csv`
-   - `audio/lesson-XX/`
-   - `history/runs.json`
+9. Report results:
+   - `csv/lesson-XX.csv` (updated with new items)
+   - `audio/lesson-XX/` (new audio files created)
+   - Anki import results (notes_added, notes_skipped_duplicate)
 
 ## Input JSON Format
 

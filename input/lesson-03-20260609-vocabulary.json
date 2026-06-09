@@ -1,0 +1,330 @@
+{
+  "lesson": 3,
+  "items": [
+    {
+      "kana": "ここ",
+      "kanji": "",
+      "vietnamese": "chỗ này, đây"
+    },
+    {
+      "kana": "そこ",
+      "kanji": "",
+      "vietnamese": "chỗ đó, đó"
+    },
+    {
+      "kana": "あそこ",
+      "kanji": "",
+      "vietnamese": "chỗ kia, kia"
+    },
+    {
+      "kana": "どこ",
+      "kanji": "",
+      "vietnamese": "chỗ nào, đâu"
+    },
+    {
+      "kana": "ここら",
+      "kanji": "",
+      "vietnamese": "phía này, đằng này, chỗ này, đây (cách nói lịch sự của \"ここ\")"
+    },
+    {
+      "kana": "そちら",
+      "kanji": "",
+      "vietnamese": "phía đó, đằng đó, chỗ đó, đó (cách nói lịch sự của \"そこ\")"
+    },
+    {
+      "kana": "あちら",
+      "kanji": "",
+      "vietnamese": "phía kia, đằng kia, chỗ kia, kia (cách nói lịch sự của \"あそこ\")"
+    },
+    {
+      "kana": "どちら",
+      "kanji": "",
+      "vietnamese": "phía nào, đằng nào, chỗ nào, đâu (cách nói lịch sự của \"どこ\")"
+    },
+    {
+      "kana": "きょうしつ",
+      "kanji": "教室",
+      "vietnamese": "lớp học, phòng học"
+    },
+    {
+      "kana": "しょくどう",
+      "kanji": "食堂",
+      "vietnamese": "nhà ăn"
+    },
+    {
+      "kana": "じむしょ",
+      "kanji": "事務所",
+      "vietnamese": "văn phòng"
+    },
+    {
+      "kana": "かいぎしつ",
+      "kanji": "会議室",
+      "vietnamese": "phòng họp"
+    },
+    {
+      "kana": "うけつけ",
+      "kanji": "受付",
+      "vietnamese": "bộ phận tiếp tân, phòng thương trực"
+    },
+    {
+      "kana": "ロビー",
+      "kanji": "",
+      "vietnamese": "hành lang, đại sảnh"
+    },
+    {
+      "kana": "へや",
+      "kanji": "部屋",
+      "vietnamese": "căn phòng"
+    },
+    {
+      "kana": "トイレ",
+      "kanji": "（おてあらい）",
+      "vietnamese": "nhà về sinh, phòng về sinh, toa-lét"
+    },
+    {
+      "kana": "かいだん",
+      "kanji": "階段",
+      "vietnamese": "cầu thang"
+    },
+    {
+      "kana": "エレベーター",
+      "kanji": "",
+      "vietnamese": "thang máy"
+    },
+    {
+      "kana": "エスカレーター",
+      "kanji": "",
+      "vietnamese": "thang cuốn"
+    },
+    {
+      "kana": "おくに",
+      "kanji": "【お】国",
+      "vietnamese": "đất nước (của anh/chị)"
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji": "会社",
+      "vietnamese": "công ty"
+    },
+    {
+      "kana": "うち",
+      "kanji": "",
+      "vietnamese": "nhà"
+    },
+    {
+      "kana": "でんわ",
+      "kanji": "電話",
+      "vietnamese": "máy điện thoại, điện thoại"
+    },
+    {
+      "kana": "くつ",
+      "kanji": "",
+      "vietnamese": "giày"
+    },
+    {
+      "kana": "ネクタイ",
+      "kanji": "",
+      "vietnamese": "cà-vạt"
+    },
+    {
+      "kana": "ワイン",
+      "kanji": "",
+      "vietnamese": "rượu vang"
+    },
+    {
+      "kana": "たばこ",
+      "kanji": "",
+      "vietnamese": "thuốc lá"
+    },
+    {
+      "kana": "うりば",
+      "kanji": "売り場",
+      "vietnamese": "quầy bán (trong một bách hóa)"
+    },
+    {
+      "kana": "ちか",
+      "kanji": "地下",
+      "vietnamese": "tầng hầm, dưới mặt đất"
+    },
+    {
+      "kana": "いっかい",
+      "kanji": "一階",
+      "vietnamese": "tầng thứ nhất"
+    },
+    {
+      "kana": "なんがい",
+      "kanji": "何階",
+      "vietnamese": "tầng mấy"
+    },
+    {
+      "kana": "えん",
+      "kanji": "円",
+      "vietnamese": "yên"
+    },
+    {
+      "kana": "いくら",
+      "kanji": "",
+      "vietnamese": "bao nhiêu tiền"
+    },
+    {
+      "kana": "ひゃく",
+      "kanji": "百",
+      "vietnamese": "trăm"
+    },
+    {
+      "kana": "せん",
+      "kanji": "千",
+      "vietnamese": "nghin"
+    },
+    {
+      "kana": "まん",
+      "kanji": "万",
+      "vietnamese": "mười nghin, vạn"
+    },
+    {
+      "kana": "すみません",
+      "kanji": "",
+      "vietnamese": "Xin lỗi. (cách nói lịch sự của \"です\")"
+    },
+    {
+      "kana": "～でございます",
+      "kanji": "",
+      "vietnamese": "~. Cho tôi xem [~]."
+    },
+    {
+      "kana": "【～を】見せてください",
+      "kanji": "",
+      "vietnamese": "Cho tôi xem [~]."
+    },
+    {
+      "kana": "じゃ",
+      "kanji": "",
+      "vietnamese": "Thế thì, vậy thì"
+    },
+    {
+      "kana": "【～を】ください",
+      "kanji": "",
+      "vietnamese": "Cho tôi [~]."
+    },
+    {
+      "kana": "おくじょう",
+      "kanji": "屋上",
+      "vietnamese": "sân thượng"
+    },
+    {
+      "kana": "ゆうえんち",
+      "kanji": "遊園地",
+      "vietnamese": "công viên giải trí"
+    },
+    {
+      "kana": "しょくどう",
+      "kanji": "食堂",
+      "vietnamese": "nhà ăn"
+    },
+    {
+      "kana": "もりもの",
+      "kanji": "催し物",
+      "vietnamese": "sự kiện, buổi trình diễn"
+    },
+    {
+      "kana": "じかん",
+      "kanji": "時計",
+      "vietnamese": "đồng hồ"
+    },
+    {
+      "kana": "めがね",
+      "kanji": "眼鏡",
+      "vietnamese": "kính mắt"
+    },
+    {
+      "kana": "カメラ",
+      "kanji": "",
+      "vietnamese": "máy ảnh"
+    },
+    {
+      "kana": "スポーツようひん",
+      "kanji": "スポーツ用品",
+      "vietnamese": "dụng cụ thể thao"
+    },
+    {
+      "kana": "りょこうようひん",
+      "kanji": "旅行用品",
+      "vietnamese": "đồ du lịch"
+    },
+    {
+      "kana": "こどもふく",
+      "kanji": "子ども服",
+      "vietnamese": "quần áo trẻ em"
+    },
+    {
+      "kana": "おもちゃ",
+      "kanji": "",
+      "vietnamese": "đồ chơi"
+    },
+    {
+      "kana": "ほん",
+      "kanji": "本",
+      "vietnamese": "sách"
+    },
+    {
+      "kana": "ぶんぼうぐ",
+      "kanji": "文房具",
+      "vietnamese": "văn phòng phẩm"
+    },
+    {
+      "kana": "しんしふく",
+      "kanji": "紳士服",
+      "vietnamese": "quần áo nam"
+    },
+    {
+      "kana": "ふじんふく",
+      "kanji": "婦人服",
+      "vietnamese": "quần áo nữ"
+    },
+    {
+      "kana": "くつ",
+      "kanji": "靴",
+      "vietnamese": "giày"
+    },
+    {
+      "kana": "かばん",
+      "kanji": "",
+      "vietnamese": "cặp sách, túi sách"
+    },
+    {
+      "kana": "アクセサリー",
+      "kanji": "",
+      "vietnamese": "phụ kiện"
+    },
+    {
+      "kana": "けしょうひん",
+      "kanji": "化粧品",
+      "vietnamese": "mỹ phẩm"
+    },
+    {
+      "kana": "かぐ",
+      "kanji": "家具",
+      "vietnamese": "đồ nội thất"
+    },
+    {
+      "kana": "しょくき",
+      "kanji": "食器",
+      "vietnamese": "đồ ăn (bát, đũa, ...)"
+    },
+    {
+      "kana": "でんきせいひん",
+      "kanji": "電気製品",
+      "vietnamese": "đồ điện"
+    },
+    {
+      "kana": "しょくりょうひん",
+      "kanji": "食料品",
+      "vietnamese": "lương thực, thực phẩm"
+    },
+    {
+      "kana": "ちゅうしゃじょう",
+      "kanji": "駐車場",
+      "vietnamese": "bãi đỗ xe"
+    }
+  ]
+}
