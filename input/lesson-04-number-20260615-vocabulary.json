@@ -1,0 +1,280 @@
+{
+  "lesson": 4,
+  "items": [
+    {
+      "kana": "れい",
+      "kanji": "零",
+      "vietnamese": "số không"
+    },
+    {
+      "kana": "ゼロ",
+      "kanji": "",
+      "vietnamese": "số không"
+    },
+    {
+      "kana": "いち",
+      "kanji": "一",
+      "vietnamese": "một"
+    },
+    {
+      "kana": "に",
+      "kanji": "二",
+      "vietnamese": "hai"
+    },
+    {
+      "kana": "さん",
+      "kanji": "三",
+      "vietnamese": "ba"
+    },
+    {
+      "kana": "よん",
+      "kanji": "四",
+      "vietnamese": "bốn"
+    },
+    {
+      "kana": "ご",
+      "kanji": "五",
+      "vietnamese": "năm"
+    },
+    {
+      "kana": "ろく",
+      "kanji": "六",
+      "vietnamese": "sáu"
+    },
+    {
+      "kana": "なな",
+      "kanji": "七",
+      "vietnamese": "bảy"
+    },
+    {
+      "kana": "はち",
+      "kanji": "八",
+      "vietnamese": "tám"
+    },
+    {
+      "kana": "きゅう",
+      "kanji": "九",
+      "vietnamese": "chín"
+    },
+    {
+      "kana": "じゅう",
+      "kanji": "十",
+      "vietnamese": "mười"
+    },
+    {
+      "kana": "じゅういち",
+      "kanji": "十一",
+      "vietnamese": "mười một"
+    },
+    {
+      "kana": "じゅうに",
+      "kanji": "十二",
+      "vietnamese": "mười hai"
+    },
+    {
+      "kana": "じゅうさん",
+      "kanji": "十三",
+      "vietnamese": "mười ba"
+    },
+    {
+      "kana": "じゅうよん",
+      "kanji": "十四",
+      "vietnamese": "mười bốn"
+    },
+    {
+      "kana": "じゅうご",
+      "kanji": "十五",
+      "vietnamese": "mười lăm"
+    },
+    {
+      "kana": "じゅうろく",
+      "kanji": "十六",
+      "vietnamese": "mười sáu"
+    },
+    {
+      "kana": "じゅうなな",
+      "kanji": "十七",
+      "vietnamese": "mười bảy"
+    },
+    {
+      "kana": "じゅうはち",
+      "kanji": "十八",
+      "vietnamese": "mười tám"
+    },
+    {
+      "kana": "じゅうきゅう",
+      "kanji": "十九",
+      "vietnamese": "mười chín"
+    },
+    {
+      "kana": "にじゅう",
+      "kanji": "二十",
+      "vietnamese": "hai mươi"
+    },
+    {
+      "kana": "さんじゅう",
+      "kanji": "三十",
+      "vietnamese": "ba mươi"
+    },
+    {
+      "kana": "よんじゅう",
+      "kanji": "四十",
+      "vietnamese": "bốn mươi"
+    },
+    {
+      "kana": "ごじゅう",
+      "kanji": "五十",
+      "vietnamese": "năm mươi"
+    },
+    {
+      "kana": "ろくじゅう",
+      "kanji": "六十",
+      "vietnamese": "sáu mươi"
+    },
+    {
+      "kana": "ななじゅう",
+      "kanji": "七十",
+      "vietnamese": "bảy mươi"
+    },
+    {
+      "kana": "はちじゅう",
+      "kanji": "八十",
+      "vietnamese": "tám mươi"
+    },
+    {
+      "kana": "きゅうじゅう",
+      "kanji": "九十",
+      "vietnamese": "chín mươi"
+    },
+    {
+      "kana": "ひゃく",
+      "kanji": "百",
+      "vietnamese": "một trăm"
+    },
+    {
+      "kana": "さんびゃく",
+      "kanji": "三百",
+      "vietnamese": "ba trăm"
+    },
+    {
+      "kana": "ろっぴゃく",
+      "kanji": "六百",
+      "vietnamese": "sáu trăm"
+    },
+    {
+      "kana": "はっぴゃく",
+      "kanji": "八百",
+      "vietnamese": "tám trăm"
+    },
+    {
+      "kana": "せん",
+      "kanji": "千",
+      "vietnamese": "một nghìn"
+    },
+    {
+      "kana": "さんぜん",
+      "kanji": "三千",
+      "vietnamese": "ba nghìn"
+    },
+    {
+      "kana": "はっせん",
+      "kanji": "八千",
+      "vietnamese": "tám nghìn"
+    },
+    {
+      "kana": "まん",
+      "kanji": "万",
+      "vietnamese": "mười nghìn"
+    },
+    {
+      "kana": "じゅうまん",
+      "kanji": "十万",
+      "vietnamese": "một trăm nghìn"
+    },
+    {
+      "kana": "ひゃくまん",
+      "kanji": "百万",
+      "vietnamese": "một triệu"
+    },
+    {
+      "kana": "いっせんまん",
+      "kanji": "一千万",
+      "vietnamese": "mười triệu"
+    },
+    {
+      "kana": "なん",
+      "kanji": "何",
+      "vietnamese": "mấy, bao nhiêu"
+    },
+    {
+      "kana": "かず",
+      "kanji": "数",
+      "vietnamese": "số lượng, con số"
+    },
+    {
+      "kana": "すうじ",
+      "kanji": "数字",
+      "vietnamese": "chữ số, con số"
+    },
+    {
+      "kana": "ばんごう",
+      "kanji": "番号",
+      "vietnamese": "số, số thứ tự"
+    },
+    {
+      "kana": "でんわばんごう",
+      "kanji": "電話番号",
+      "vietnamese": "số điện thoại"
+    },
+    {
+      "kana": "へやばんごう",
+      "kanji": "部屋番号",
+      "vietnamese": "số phòng"
+    },
+    {
+      "kana": "あんしょうばんごう",
+      "kanji": "暗証番号",
+      "vietnamese": "mã số, mã PIN"
+    },
+    {
+      "kana": "けた",
+      "kanji": "桁",
+      "vietnamese": "chữ số, hàng số"
+    },
+    {
+      "kana": "たんい",
+      "kanji": "単位",
+      "vietnamese": "đơn vị"
+    },
+    {
+      "kana": "きすう",
+      "kanji": "奇数",
+      "vietnamese": "số lẻ"
+    },
+    {
+      "kana": "ぐうすう",
+      "kanji": "偶数",
+      "vietnamese": "số chẵn"
+    },
+    {
+      "kana": "すうりょう",
+      "kanji": "数量",
+      "vietnamese": "số lượng"
+    },
+    {
+      "kana": "けいさん",
+      "kanji": "計算",
+      "vietnamese": "phép tính, tính toán"
+    },
+    {
+      "kana": "ごうけい",
+      "kanji": "合計",
+      "vietnamese": "tổng cộng"
+    },
+    {
+      "kana": "じゅんばん",
+      "kanji": "順番",
+      "vietnamese": "thứ tự, lượt"
+    }
+  ]
+}

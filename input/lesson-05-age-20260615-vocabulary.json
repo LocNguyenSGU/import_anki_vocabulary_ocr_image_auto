@@ -1,0 +1,240 @@
+{
+  "lesson": 5,
+  "items": [
+    {
+      "kana": "とし",
+      "kanji": "年",
+      "vietnamese": "tuổi, năm tuổi"
+    },
+    {
+      "kana": "ねんれい",
+      "kanji": "年齢",
+      "vietnamese": "tuổi tác"
+    },
+    {
+      "kana": "さい",
+      "kanji": "歳",
+      "vietnamese": "tuổi"
+    },
+    {
+      "kana": "なんさい",
+      "kanji": "何歳",
+      "vietnamese": "mấy tuổi"
+    },
+    {
+      "kana": "おいくつ",
+      "kanji": "",
+      "vietnamese": "bao nhiêu tuổi (lịch sự)"
+    },
+    {
+      "kana": "まん",
+      "kanji": "満",
+      "vietnamese": "tròn, đủ (tuổi)"
+    },
+    {
+      "kana": "みまん",
+      "kanji": "未満",
+      "vietnamese": "chưa đến, dưới mức"
+    },
+    {
+      "kana": "いっさい",
+      "kanji": "一歳",
+      "vietnamese": "một tuổi"
+    },
+    {
+      "kana": "にさい",
+      "kanji": "二歳",
+      "vietnamese": "hai tuổi"
+    },
+    {
+      "kana": "さんさい",
+      "kanji": "三歳",
+      "vietnamese": "ba tuổi"
+    },
+    {
+      "kana": "よんさい",
+      "kanji": "四歳",
+      "vietnamese": "bốn tuổi"
+    },
+    {
+      "kana": "ごさい",
+      "kanji": "五歳",
+      "vietnamese": "năm tuổi"
+    },
+    {
+      "kana": "ろくさい",
+      "kanji": "六歳",
+      "vietnamese": "sáu tuổi"
+    },
+    {
+      "kana": "ななさい",
+      "kanji": "七歳",
+      "vietnamese": "bảy tuổi"
+    },
+    {
+      "kana": "はっさい",
+      "kanji": "八歳",
+      "vietnamese": "tám tuổi"
+    },
+    {
+      "kana": "きゅうさい",
+      "kanji": "九歳",
+      "vietnamese": "chín tuổi"
+    },
+    {
+      "kana": "じゅっさい",
+      "kanji": "十歳",
+      "vietnamese": "mười tuổi"
+    },
+    {
+      "kana": "じゅういっさい",
+      "kanji": "十一歳",
+      "vietnamese": "mười một tuổi"
+    },
+    {
+      "kana": "じゅうにさい",
+      "kanji": "十二歳",
+      "vietnamese": "mười hai tuổi"
+    },
+    {
+      "kana": "じゅうさんさい",
+      "kanji": "十三歳",
+      "vietnamese": "mười ba tuổi"
+    },
+    {
+      "kana": "じゅうよんさい",
+      "kanji": "十四歳",
+      "vietnamese": "mười bốn tuổi"
+    },
+    {
+      "kana": "じゅうごさい",
+      "kanji": "十五歳",
+      "vietnamese": "mười lăm tuổi"
+    },
+    {
+      "kana": "じゅうろくさい",
+      "kanji": "十六歳",
+      "vietnamese": "mười sáu tuổi"
+    },
+    {
+      "kana": "じゅうななさい",
+      "kanji": "十七歳",
+      "vietnamese": "mười bảy tuổi"
+    },
+    {
+      "kana": "じゅうはっさい",
+      "kanji": "十八歳",
+      "vietnamese": "mười tám tuổi"
+    },
+    {
+      "kana": "じゅうきゅうさい",
+      "kanji": "十九歳",
+      "vietnamese": "mười chín tuổi"
+    },
+    {
+      "kana": "はたち",
+      "kanji": "二十歳",
+      "vietnamese": "hai mươi tuổi"
+    },
+    {
+      "kana": "にじゅういっさい",
+      "kanji": "二十一歳",
+      "vietnamese": "hai mươi mốt tuổi"
+    },
+    {
+      "kana": "さんじゅっさい",
+      "kanji": "三十歳",
+      "vietnamese": "ba mươi tuổi"
+    },
+    {
+      "kana": "よんじゅっさい",
+      "kanji": "四十歳",
+      "vietnamese": "bốn mươi tuổi"
+    },
+    {
+      "kana": "ごじゅっさい",
+      "kanji": "五十歳",
+      "vietnamese": "năm mươi tuổi"
+    },
+    {
+      "kana": "ろくじゅっさい",
+      "kanji": "六十歳",
+      "vietnamese": "sáu mươi tuổi"
+    },
+    {
+      "kana": "こども",
+      "kanji": "子供",
+      "vietnamese": "trẻ em"
+    },
+    {
+      "kana": "あかちゃん",
+      "kanji": "赤ちゃん",
+      "vietnamese": "em bé"
+    },
+    {
+      "kana": "ようじ",
+      "kanji": "幼児",
+      "vietnamese": "trẻ nhỏ"
+    },
+    {
+      "kana": "おとな",
+      "kanji": "大人",
+      "vietnamese": "người lớn"
+    },
+    {
+      "kana": "せいじん",
+      "kanji": "成人",
+      "vietnamese": "người thành niên"
+    },
+    {
+      "kana": "みせいねん",
+      "kanji": "未成年",
+      "vietnamese": "vị thành niên"
+    },
+    {
+      "kana": "わかもの",
+      "kanji": "若者",
+      "vietnamese": "người trẻ"
+    },
+    {
+      "kana": "ろうじん",
+      "kanji": "老人",
+      "vietnamese": "người già"
+    },
+    {
+      "kana": "たんじょうび",
+      "kanji": "誕生日",
+      "vietnamese": "sinh nhật"
+    },
+    {
+      "kana": "たんじょう",
+      "kanji": "誕生",
+      "vietnamese": "sự ra đời, sinh ra"
+    },
+    {
+      "kana": "せいねんがっぴ",
+      "kanji": "生年月日",
+      "vietnamese": "ngày tháng năm sinh"
+    },
+    {
+      "kana": "としうえ",
+      "kanji": "年上",
+      "vietnamese": "người lớn tuổi hơn"
+    },
+    {
+      "kana": "としした",
+      "kanji": "年下",
+      "vietnamese": "người ít tuổi hơn"
+    },
+    {
+      "kana": "どうねんだい",
+      "kanji": "同年代",
+      "vietnamese": "cùng độ tuổi, cùng thế hệ tuổi"
+    },
+    {
+      "kana": "こうれいしゃ",
+      "kanji": "高齢者",
+      "vietnamese": "người cao tuổi"
+    }
+  ]
+}

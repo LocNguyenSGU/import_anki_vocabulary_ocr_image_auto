@@ -2,11 +2,14 @@
 
 Use these templates with a note type that has these fields:
 
+- `EntryKey`
 - `Kana`
 - `Kanji`
 - `Romaji`
 - `Vietnamese`
 - `Audio`
+
+`EntryKey` là field kỹ thuật để detect duplicate chính xác hơn. Không cần dùng field này trong card template.
 
 Recommended deck:
 
@@ -18,7 +21,7 @@ Mamino Vocabulary
 
 1. Copy MP3 files from `audio/lesson-XX/` into Anki's `collection.media` folder.
 2. Open Anki.
-3. Create a note type with the five fields above.
+3. Create a note type with the six fields above, và giữ `EntryKey` là field đầu tiên.
 4. Import `csv/lesson-XX.csv`.
 5. Map columns in this order:
    - `kana` -> `Kana`
@@ -26,6 +29,8 @@ Mamino Vocabulary
    - `romaji` -> `Romaji`
    - `vietnamese` -> `Vietnamese`
    - `audio` -> `Audio`
+
+Nếu dùng CLI `mamino-anki import-anki`, tool sẽ tự sinh `EntryKey`.
 
 On macOS, Anki media is usually under:
 

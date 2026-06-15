@@ -8,6 +8,8 @@ from typing import Protocol
 
 import requests
 
+MODEL_FIELDS = ["EntryKey", "Kana", "Kanji", "Romaji", "Vietnamese", "Audio"]
+
 
 class AnkiClient(Protocol):
     def request(self, action: str, **params):
@@ -74,11 +76,12 @@ class AnkiImporter:
     def _ensure_model(self, *, model_name: str, templates_dir: Path) -> None:
         models = self.client.request("modelNames")
         if model_name in models:
+            self._ensure_entry_key_field(model_name=model_name)
             return
         self.client.request(
             "createModel",
             modelName=model_name,
-            inOrderFields=["Kana", "Kanji", "Romaji", "Vietnamese", "Audio"],
+            inOrderFields=MODEL_FIELDS,
             css=self._read_template(templates_dir, "styling.css"),
             cardTemplates=[
                 {
@@ -106,6 +109,36 @@ class AnkiImporter:
                 },
             ],
         )
+
+    def _ensure_entry_key_field(self, *, model_name: str) -> None:
+        fields = self.client.request("modelFieldNames", modelName=model_name)
+        if "EntryKey" not in fields:
+            self.client.request("modelFieldAdd", modelName=model_name, fieldName="EntryKey", index=0)
+        self._backfill_entry_keys(model_name=model_name)
+
+    def _backfill_entry_keys(self, *, model_name: str) -> None:
+        note_ids = self.client.request("findNotes", query=f'note:"{model_name}"')
+        if not note_ids:
+            return
+
+        for note in self.client.request("notesInfo", notes=note_ids):
+            fields = note["fields"]
+            entry_key = fields.get("EntryKey", {}).get("value", "").strip()
+            if entry_key:
+                continue
+            self.client.request(
+                "updateNoteFields",
+                note={
+                    "id": note["noteId"],
+                    "fields": {
+                        "EntryKey": self._entry_key(
+                            kana=fields["Kana"]["value"],
+                            kanji=fields["Kanji"]["value"],
+                            vietnamese=fields["Vietnamese"]["value"],
+                        )
+                    },
+                },
+            )
 
     def _upload_media(self, audio_dir: Path) -> int:
         count = 0
@@ -137,6 +170,11 @@ class AnkiImporter:
                     "deckName": deck_name,
                     "modelName": model_name,
                     "fields": {
+                        "EntryKey": self._entry_key(
+                            kana=row["kana"],
+                            kanji=row["kanji"],
+                            vietnamese=row["vietnamese"],
+                        ),
                         "Kana": row["kana"],
                         "Kanji": row["kanji"],
                         "Romaji": row["romaji"],
@@ -155,3 +193,6 @@ class AnkiImporter:
 
     def _read_template(self, templates_dir: Path, name: str) -> str:
         return (templates_dir / name).read_text(encoding="utf-8")
+
+    def _entry_key(self, *, kana: str, kanji: str, vietnamese: str) -> str:
+        return f"{kana.strip()}|{kanji.strip()}|{vietnamese.strip()}"

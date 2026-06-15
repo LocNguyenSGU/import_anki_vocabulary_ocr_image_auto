@@ -2,6 +2,8 @@
 
 Tạo bộ thẻ từ vựng tiếng Nhật cho Anki từ ảnh chụp sách, có CSV, audio phát âm, lịch sử chạy lại, và import trực tiếp vào Anki qua AnkiConnect.
 
+AI agent/Codex should start with `docs/agent/` and local `AGENTS.md` before inferring behavior from generated files.
+
 Project hiện đang dùng cho sách Mamino/Minna theo từng bài. Ví dụ hiện có:
 
 - `lesson-01`: 108 từ, 108 audio, 324 card trong Anki.
@@ -26,6 +28,7 @@ Mamino Vocabulary
 - Tự tạo note type `Mamino Vocabulary`.
 - Tự tạo subdeck theo bài, ví dụ `Mamino Vocabulary::Bài 02`.
 - Skip note trùng trên toàn collection.
+- Duplicate trong Anki được phân biệt bằng khóa kỹ thuật, không chỉ dựa vào `kana`.
 - Có template Anki gồm 3 card:
   - Nhìn tiếng Nhật -> nhớ nghĩa.
   - Nghe audio -> nhớ từ và nghĩa.
@@ -98,7 +101,7 @@ python3 -m pytest -q
 Kỳ vọng:
 
 ```text
-23 passed
+25 passed
 ```
 
 ## Cấu trúc dữ liệu
